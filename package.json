@@ -1,0 +1,20 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is namaste react by ayisha ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/ayishashirin/NamasteReact.git"
+},
+
+  "keywords": [
+    "react",
+    "git"
+  ],
+  "author": "Ayisha Shirin V P",
+  "license": "ISC"
+}

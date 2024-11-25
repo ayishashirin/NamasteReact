@@ -1,38 +1,61 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-/*
-        <div id= "parent">
-     <div id = "child">
-  <h1>I am ayisha
-  </h1>
-  <h2>I am ayisha
-  </h2>
+//react create element  =>  object => html element(render)
 
-     </div>
-        </div>
+// const heading = React.createElement("h1",{id:"heading"},"namaste react 🚀 ");
+// console.log(heading);/
 
 
-*/
+//jsx (transpiled before it reaches the JS ) - Parcel -Babel 
+
+ // jsx => react.createElement => reactElement => HTML element(rendering)
  
-const parent = React.createElement(
-    "div", 
-    {id :"parent"},
-    React.createElement(
-      "div",
-      {id:"child"},
-      [React.createElement("h1",{},"I am ayisha"),React.createElement("h1",{},"Namaste React ")]
-));
 
 
-const root = ReactDOM.createRoot(document.getElementById("root"))
+ 
+  const jsxHeading = (<h1 id="heading"> namaste react  using jsx🚀 </h1>);
 
-
-root.render(parent);
+  console.log(jsxHeading);
 
 
 
+//  root.render(jsxHeading)
 
-// const heading = React.createElement("h1",{id : "heading"},"HELLO WORLD FROM REACT");
-// const root = ReactDOM.createRoot(document.getElementById("root"));
-// root.render(heading);
+
+
+ //react components
+
+ //class based components - old 
+ // functional component - new 
+
+
+ // # React functional component
+
+//  a function that return jsx code that functional component 
+
+const Title = () => (
+  <h1 className="head" tableIndex="5"> 
+  Namaste Aayisha.!😍
+  </h1>
+)
+
+ const HeadingComponent = ()=> (
+
+  <div id="container"> 
+  <Title />
+   <h1 className="heading">namasteReact functional component.!</h1> 
+  </div>
+ );
+
+//  const HeadingComponent = ()=>(
+//    <h1>namasteReact functional component.!</h1>
+//  );
+
+
+
+  //  const fn = ()=> true;    
+
+   const root = ReactDOM.createRoot(document.getElementById("root"));
+
+   root.render(<HeadingComponent/>)

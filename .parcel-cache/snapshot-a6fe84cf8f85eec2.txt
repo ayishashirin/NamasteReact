@@ -20,13 +20,13 @@
 77C:\Users\ayish\Desktop\NamasteReact\node_modules\@parcel\workers\package.json133768504001382105 0
 125C:\Users\ayish\Desktop\NamasteReact\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.win32-x64-msvc.node133768504008083377 0
 95C:\Users\ayish\Desktop\NamasteReact\node_modules\posthtml\node_modules\domutils\lib\querying.js133768503988430680 0
-46C:\Users\ayish\Desktop\NamasteReact\.gitignore133769397277970088 0
+46C:\Users\ayish\Desktop\NamasteReact\.gitignore133769952856490047 0
 85C:\Users\ayish\Desktop\NamasteReact\node_modules\@swc\helpers\_\_type_of\package.json133768504040934229 0
 87C:\Users\ayish\Desktop\NamasteReact\node_modules\react-dom\cjs\react-dom.development.js133769321910770931 0
 77C:\Users\ayish\Desktop\NamasteReact\node_modules\domhandler\lib\node.d.ts.map133768503990602573 0
 85C:\Users\ayish\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\webgl2.js133768504123441924 0
 70C:\Users\ayish\Desktop\NamasteReact\node_modules\.bin\browserslist.cmd133768504517714644 0
-40C:\Users\ayish\Desktop\NamasteReact\dist133769421181274779 1
+40C:\Users\ayish\Desktop\NamasteReact\dist133769951608120851 1
 58C:\Users\ayish\Desktop\NamasteReact\node_modules\is-number133768503984978256 1
 90C:\Users\ayish\Desktop\NamasteReact\node_modules\@swc\helpers\esm\_wrap_async_generator.js133768504020008671 0
 70C:\Users\ayish\Desktop\NamasteReact\node_modules\safe-buffer\README.md133768503985563843 0
@@ -43,7 +43,7 @@
 103C:\Users\ayish\Desktop\NamasteReact\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb.c133768504002082114 0
 45C:\Users\ayish\Desktop\NamasteReact\index.css133769315958850636 0
 78C:\Users\ayish\Desktop\NamasteReact\node_modules\domutils\lib\traversal.js.map133768504000560741 0
-46C:\Users\ayish\Desktop\NamasteReact\index.html133769328698090539 0
+46C:\Users\ayish\Desktop\NamasteReact\index.html133769426830064649 0
 48C:\Users\ayish\Desktop\NamasteReact\node_modules133769322603005014 1
 80C:\Users\ayish\Desktop\NamasteReact\node_modules\caniuse-lite\data\regions\IM.js133768504051678619 0
 83C:\Users\ayish\Desktop\NamasteReact\node_modules\@parcel\feature-flags\src\types.js133768503987935244 0
@@ -4503,5 +4503,5 @@
 62C:\Users\ayish\Desktop\NamasteReact\dist\index.7826abd7.js.map133769420850621881 0
 63C:\Users\ayish\Desktop\NamasteReact\dist\index.9e4c6fd2.css.map133769420848505569 0
 59C:\Users\ayish\Desktop\NamasteReact\dist\index.f1cb26bf.css133769421180844744 0
-51C:\Users\ayish\Desktop\NamasteReact\dist\index.html133769421180834890 0
+51C:\Users\ayish\Desktop\NamasteReact\dist\index.html133769951608100559 0
 69C:\Users\ayish\Desktop\NamasteReact\dist\NamasteReact.3464ddca.js.map133769328470602982 0
